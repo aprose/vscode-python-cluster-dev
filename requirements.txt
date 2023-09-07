@@ -4,3 +4,9 @@ torch
 torchvision
 dask[complete]
 mlflow
+jupyterlab
+pyarrow
+tensorflow
+transformers
+pygame
+gym
