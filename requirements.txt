@@ -3,3 +3,4 @@ ray[all]
 torch
 torchvision
 dask[complete]
+mlflow
